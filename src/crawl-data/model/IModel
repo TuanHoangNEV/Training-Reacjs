@@ -1,0 +1,4 @@
+interface IProps {
+  value: string;
+  key: string;
+}
